@@ -10,8 +10,8 @@
 <br />
 
 ### About Me 🚀
-- 🌱 I aspire to become a versatile full-stack developer with a keen emphasis on data analytics. </br>
-- 👨‍💻  I'm deeply passionate about the fusion of coding and design. My enthusiasm thrives on the perpetual journey of acquiring new knowledge and embracing cutting-edge technologies. </br>
+- 🌱 Full time developer and data nerd. </br>
+- 👨‍💻  I'm deeply passionate about coding and design and where the 2 meet. </br>
 
 ### My Experiences 🙌
 - [Training Coordinator (Code:You)](https://code-you.org/) - (Dec'23-Present)
