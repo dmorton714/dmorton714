@@ -1,7 +1,7 @@
 ## Hello World, I'm [Danny Morton!](https://www.linkedin.com/in/dmorton714/) 
 
 <a href="https://www.linkedin.com/in/dmorton714/">
-  <img align="left" width="24px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)" />
+  <img align="left" width="48px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)" />
 </a>
 <a href="mailto:mailto:danny.morton714@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
