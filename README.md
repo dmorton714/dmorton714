@@ -9,12 +9,21 @@
 
 <br />
 
-### About Me 🚀
-- 🌱 Full time developer and data nerd. </br>
-- 👨‍💻  I'm deeply passionate about coding and design and where the 2 meet. </br>
+### About Me 
+- Full-time developer and data enthusiast  </br>
+
+- Passionate about the intersection of code, design, and problem-solving  </br>
+
+- Currently developing full-stack web applications with a focus on usability and performance  </br>
+
+- Project managing recent graduates from Code:You to help them build stronger portfolios and gain real-world experience  </br>
+
+- Actively volunteering and building community through local tech and education initiatives  </br>
+
 
 ### My Experiences 🙌
-- [Training Coordinator (Code:You)](https://code-you.org/) - (Dec'23-Present)
+- [Technical Project Manager (Code:You)](https://code-you.org/) - (25-Present)
+- [Training Coordinator (Code:You)](https://code-you.org/) - (23-25)
 - [Mentor (Code:You)](https://code-you.org/) - (Oct'22-Present)
 - [IT Manager/Consultant (Best-One)](https://bestone.tires/) - (Dec'20-Present)
 
