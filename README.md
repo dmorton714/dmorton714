@@ -7,21 +7,18 @@
   <img align="left" width="40px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 
-<br />
+<br/>
 
 ### About Me 
-- Full-time developer and data enthusiast  </br>
-
-- Passionate about the intersection of code, design, and problem-solving  </br>
-
-- Currently developing full-stack web applications with a focus on usability and performance  </br>
-
-- Project managing recent graduates from Code:You to help them build stronger portfolios and gain real-world experience  </br>
-
-- Actively volunteering and building community through local tech and education initiatives  </br>
+- Full-time developer and
+- data enthusiast
+- Passionate about the intersection of code, design, and problem-solving  
+- Currently developing full-stack web applications with a focus on usability and performance  
+- Project managing recent graduates from Code:You to help them build stronger portfolios and gain real-world experience 
+- Actively volunteering and building community through local tech and education initiatives 
 
 
-### My Experiences 🙌
+### My Experience
 - [Technical Project Manager (Code:You)](https://code-you.org/) - (25-Present)
 - [Training Coordinator (Code:You)](https://code-you.org/) - (23-25)
 - [Mentor (Code:You)](https://code-you.org/) - (Oct'22-Present)
