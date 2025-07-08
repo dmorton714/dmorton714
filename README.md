@@ -7,7 +7,7 @@
   <img align="left" width="40px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 
-<br/>
+<br>
 
 ### About Me 
 - Full-time developer and
@@ -15,7 +15,10 @@
 - Passionate about the intersection of code, design, and problem-solving  
 - Currently developing full-stack web applications with a focus on usability and performance  
 - Project managing recent graduates from Code:You to help them build stronger portfolios and gain real-world experience 
-- Actively volunteering and building community through local tech and education initiatives 
+- Actively volunteering and building community through local tech and education initiatives
+- Current projects
+  - [Python Projects](https://github.com/dmorton714/CY_post_grad_data) Current Python development geared at teaching more complex tasks to graduates
+  - [Tire Store](https://github.com/dmorton714/vis) Mock Tire Store dashboard and reporting. 
 
 
 ### My Experience
