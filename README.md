@@ -6,7 +6,7 @@
 <a href="mailto:mailto:danny.morton714@gmail.com">
   <img align="left" width="40px" src="https://cdn.simpleicons.org/gmail" />
 </a>
-
+<br>
 <br>
 
 ### About Me 
