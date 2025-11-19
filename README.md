@@ -10,7 +10,7 @@
 <br>
 
 ### About Me 
-- Full-time developer and
+- Full-time developer
 - data enthusiast
 - Passionate about the intersection of code, design, and problem-solving  
 - Currently developing full-stack web applications with a focus on usability and performance  
