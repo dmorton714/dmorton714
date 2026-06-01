@@ -24,7 +24,3 @@
 - [Mentor (Code:You)](https://code-you.org/) - (Oct'22-Present)
 - [IT Manager/Consultant (Best-One)](https://bestone.tires/) - (20-25)
 
-<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=dmorton714&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
-![Danny's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmorton714&layout=compact&langs_count=8&hide_border=true)
-<br />
-
